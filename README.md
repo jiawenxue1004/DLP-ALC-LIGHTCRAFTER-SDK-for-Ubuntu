@@ -7,7 +7,7 @@ This project is based on the officially released code of TI [1], with some confi
 - Ubuntu 16.04
 - OpenCV 3.4.11
 - CMake 3.7
-- TI DLP lightcrafer 4500 EVM
+- TI DLP lightcrafter 4500 EVM
 
 (Unlike most DLP 4500 related projects, this project does not require OpenGL or QT to project customized images)
 
